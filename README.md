@@ -3,8 +3,10 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-silveira-de-luna-a3a159297/)
 
 ![thelunacode's Streak](https://github-readme-streak-stats.herokuapp.com/?user=thelunacodes&theme=radical&hide_border=false&locale=pt-br)
-![thelunacode's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thelunacodes&theme=radical&show_icons=true&hide_border=false&layout=compact&locale=pt-br)
+
 ![thelunacode's GitHub stats](https://github-readme-stats.vercel.app/api?username=thelunacodes&show_icons=true&theme=radical&locale=pt-br)
+
+![thelunacode's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thelunacodes&theme=radical&show_icons=true&hide_border=false&layout=compact&locale=pt-br)
 
 ## Tecnologias
 
