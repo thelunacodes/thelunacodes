@@ -18,9 +18,6 @@
     <img align="center" alt="sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />   
 </div>
 
-## Projetos
-- [Jogo da Velha (Python)](https://github.com/thelunacodes/Jogo_da_Velha_Python)
-
 <br/>
 
 Estudante de ADS (Análise e Desenvolvimento de Sistemas) e formado em Técnico de Ti. 
